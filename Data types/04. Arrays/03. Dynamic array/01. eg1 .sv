@@ -10,3 +10,17 @@ module dyn_array_eg;
     $display("===================");
   end
 endmodule
+
+Output:
+Chronologic VCS simulator copyright 1991-2023
+Contains Synopsys proprietary information.
+Compiler version U-2023.03-SP2_Full64; Runtime version U-2023.03-SP2_Full64;  Jul 24 09:19 2025
+===================
+array[0]=2
+array[1]=4
+array[2]=6
+array[3]=8
+array[4]=0
+Size of array = 5
+===================
+           V C S   S i m u l a t i o n   R e p o r t 
