@@ -17,6 +17,7 @@ task tr_mul(int a,b, output int rez);
 endtask
 
 
+
 Output:
 Contains Synopsys proprietary information.
 Compiler version U-2023.03-SP2_Full64; Runtime version U-2023.03-SP2_Full64;  Oct  3 09:33 2025
