@@ -1,8 +1,6 @@
 // Code your testbench here
 // or browse Examples
-//6. Write a code for without using rand keyword how we can randomize the Variable. 
-//10. Without using rand keyword how we can randomize the variable? 
-
+//6. Write a code for without using rand keyword how we can randomize the Variable.
 
 module tb;
   bit [4:0] a,b;
